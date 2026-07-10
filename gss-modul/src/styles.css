@@ -1090,6 +1090,13 @@ td:last-child {
   margin-bottom: 14px;
 }
 
+.selected-product {
+  margin-bottom: 14px;
+  border: 2px solid #111;
+  padding: 12px;
+  font-weight: 700;
+}
+
 @media (max-width: 900px) {
   .main-nav {
     display: none;
