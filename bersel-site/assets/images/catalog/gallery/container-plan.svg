@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Планировка блок-контейнера</title>
+  <desc id="desc">Типовая планировка блок-контейнера размером шесть на два целых четыре метра.</desc>
+  <rect width="1600" height="1000" fill="#eef2ed"/>
+  <g fill="none" stroke="#153437" stroke-width="18">
+    <rect x="200" y="250" width="1200" height="480"/>
+    <path d="M1080 250v480"/>
+    <path d="M200 570h120"/>
+    <path d="M1280 570h120"/>
+    <path d="M1080 470h120"/>
+  </g>
+  <g fill="none" stroke="#087d67" stroke-width="10">
+    <path d="M320 570a120 120 0 0 1-120 120"/>
+    <path d="M1200 470a120 120 0 0 0-120-120"/>
+  </g>
+  <g fill="#153437" font-family="Arial, sans-serif">
+    <text x="200" y="150" font-size="58" font-weight="700">БЛОК-КОНТЕЙНЕР</text>
+    <text x="200" y="830" font-size="34">Типовая планировка · 6,0 × 2,4 м</text>
+    <text x="630" y="505" font-size="40" text-anchor="middle">ОСНОВНОЕ ПОМЕЩЕНИЕ</text>
+    <text x="1240" y="505" font-size="34" text-anchor="middle">ТАМБУР</text>
+  </g>
+  <g stroke="#087d67" stroke-width="5" fill="none">
+    <path d="M200 790h1200M200 770v40M1400 770v40"/>
+    <path d="M150 250v480M130 250h40M130 730h40"/>
+  </g>
+  <g fill="#087d67" font-family="Arial, sans-serif" font-size="30" font-weight="700">
+    <text x="800" y="780" text-anchor="middle">6000</text>
+    <text x="120" y="500" text-anchor="middle" transform="rotate(-90 120 500)">2400</text>
+  </g>
+</svg>

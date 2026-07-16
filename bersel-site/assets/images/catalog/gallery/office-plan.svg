@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Планировка модульного офиса</title>
+  <desc id="desc">План офиса с открытой рабочей зоной, кабинетом, переговорной и санузлом.</desc>
+  <rect width="1600" height="1000" fill="#eef2ed"/>
+  <g fill="none" stroke="#153437" stroke-width="16">
+    <rect x="160" y="230" width="1280" height="520"/>
+    <path d="M850 230v520M1150 230v520M850 500h300"/>
+    <path d="M160 570h110M740 230v110M850 610h110M1150 600h110"/>
+  </g>
+  <g fill="none" stroke="#087d67" stroke-width="9">
+    <path d="M270 570a110 110 0 0 1-110 110"/>
+    <path d="M740 340a110 110 0 0 0 110-110"/>
+    <path d="M960 610a110 110 0 0 1-110 110"/>
+    <path d="M1260 600a110 110 0 0 1-110 110"/>
+  </g>
+  <g fill="#153437" font-family="Arial, sans-serif">
+    <text x="160" y="140" font-size="58" font-weight="700">МОДУЛЬНЫЙ ОФИС</text>
+    <text x="500" y="470" font-size="38" text-anchor="middle">OPEN SPACE</text>
+    <text x="1000" y="390" font-size="32" text-anchor="middle">КАБИНЕТ</text>
+    <text x="1000" y="650" font-size="30" text-anchor="middle">ПЕРЕГОВОРНАЯ</text>
+    <text x="1295" y="470" font-size="30" text-anchor="middle">САНУЗЕЛ</text>
+    <text x="160" y="850" font-size="34">Пример компоновки · 4 модуля</text>
+  </g>
+  <g fill="#087d67">
+    <rect x="350" y="350" width="220" height="70"/>
+    <rect x="350" y="530" width="220" height="70"/>
+    <rect x="940" y="300" width="120" height="60"/>
+    <rect x="910" y="560" width="180" height="60"/>
+  </g>
+</svg>

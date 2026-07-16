@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Планировка модульного общежития</title>
+  <desc id="desc">Коридорная планировка общежития с жилыми комнатами и бытовыми помещениями.</desc>
+  <rect width="1600" height="1000" fill="#eef2ed"/>
+  <g fill="none" stroke="#153437" stroke-width="14">
+    <rect x="130" y="220" width="1340" height="560"/>
+    <path d="M130 500h1340"/>
+    <path d="M350 220v190M570 220v190M790 220v190M1010 220v190M1230 220v190"/>
+    <path d="M350 590v190M570 590v190M790 590v190M1010 590v190M1230 590v190"/>
+  </g>
+  <g fill="#087d67">
+    <rect x="150" y="450" width="1300" height="100"/>
+  </g>
+  <g fill="#153437" font-family="Arial, sans-serif">
+    <text x="130" y="135" font-size="58" font-weight="700">ОБЩЕЖИТИЕ / ВАХТОВЫЙ ГОРОДОК</text>
+    <text x="800" y="515" fill="#fff" font-size="34" font-weight="700" text-anchor="middle">КОРИДОР</text>
+    <text x="240" y="330" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="460" y="330" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="680" y="330" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="900" y="330" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="1120" y="330" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="1350" y="330" font-size="25" text-anchor="middle">БЫТОВАЯ</text>
+    <text x="240" y="690" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="460" y="690" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="680" y="690" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="900" y="690" font-size="27" text-anchor="middle">КОМНАТА</text>
+    <text x="1120" y="690" font-size="27" text-anchor="middle">ДУШЕВАЯ</text>
+    <text x="1350" y="690" font-size="27" text-anchor="middle">САНУЗЕЛ</text>
+    <text x="130" y="890" font-size="34">Пример этажа · 10 жилых комнат</text>
+  </g>
+</svg>

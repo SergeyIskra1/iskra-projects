@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Схема индивидуального модульного здания</title>
+  <desc id="desc">Пример свободной компоновки модулей для индивидуального проекта.</desc>
+  <rect width="1600" height="1000" fill="#eef2ed"/>
+  <g fill="none" stroke="#153437" stroke-width="16">
+    <path d="M180 250h780v-80h450v580H960v80H180z"/>
+    <path d="M570 250v580M960 250v500M1130 170v580"/>
+    <path d="M180 540h390M570 470h560M1130 470h280"/>
+  </g>
+  <g fill="none" stroke="#087d67" stroke-width="9">
+    <path d="M180 620h120M450 250v120M570 680h120M850 470v120M1130 600h120M1290 170v120"/>
+  </g>
+  <g fill="#153437" font-family="Arial, sans-serif">
+    <text x="180" y="110" font-size="58" font-weight="700">ИНДИВИДУАЛЬНЫЙ ПРОЕКТ</text>
+    <text x="375" y="420" font-size="31" text-anchor="middle">РАБОЧАЯ ЗОНА</text>
+    <text x="375" y="700" font-size="29" text-anchor="middle">СКЛАД / АРХИВ</text>
+    <text x="765" y="370" font-size="31" text-anchor="middle">OPEN SPACE</text>
+    <text x="765" y="650" font-size="29" text-anchor="middle">ПЕРЕГОВОРНАЯ</text>
+    <text x="1045" y="350" font-size="27" text-anchor="middle">КУХНЯ</text>
+    <text x="1045" y="650" font-size="27" text-anchor="middle">САНУЗЛЫ</text>
+    <text x="1270" y="390" font-size="29" text-anchor="middle">ХОЛЛ</text>
+    <text x="180" y="920" font-size="34">Схема адаптируется под техническое задание</text>
+  </g>
+  <g fill="#087d67">
+    <rect x="660" y="320" width="210" height="60"/>
+    <rect x="660" y="590" width="210" height="60"/>
+    <rect x="1195" y="320" width="150" height="60"/>
+  </g>
+</svg>

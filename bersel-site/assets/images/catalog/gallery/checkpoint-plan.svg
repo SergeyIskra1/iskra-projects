@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Планировка модульного КПП</title>
+  <desc id="desc">План контрольно-пропускного пункта с постом охраны, проходной и комнатой персонала.</desc>
+  <rect width="1600" height="1000" fill="#eef2ed"/>
+  <g fill="none" stroke="#153437" stroke-width="16">
+    <rect x="190" y="230" width="1220" height="520"/>
+    <path d="M620 230v520M1030 230v520"/>
+    <path d="M190 560h120M500 230v120M620 560h120M1030 560h120M1290 230v120"/>
+  </g>
+  <g fill="none" stroke="#087d67" stroke-width="9">
+    <path d="M310 560a120 120 0 0 1-120 120"/>
+    <path d="M500 350a120 120 0 0 0 120-120"/>
+    <path d="M740 560a120 120 0 0 1-120 120"/>
+    <path d="M1150 560a120 120 0 0 1-120 120"/>
+    <path d="M1290 350a120 120 0 0 0 120-120"/>
+  </g>
+  <g fill="#153437" font-family="Arial, sans-serif">
+    <text x="190" y="140" font-size="58" font-weight="700">КПП И ПРОХОДНАЯ</text>
+    <text x="405" y="470" font-size="34" text-anchor="middle">ПОСТ ОХРАНЫ</text>
+    <text x="825" y="455" font-size="34" text-anchor="middle">ПРОХОДНАЯ</text>
+    <text x="1220" y="455" font-size="32" text-anchor="middle">КОМНАТА</text>
+    <text x="1220" y="500" font-size="32" text-anchor="middle">ПЕРСОНАЛА</text>
+    <text x="190" y="850" font-size="34">Пример компоновки · 2 модуля</text>
+  </g>
+  <g stroke="#087d67" stroke-width="16">
+    <path d="M750 380h150M750 450h150M750 520h150"/>
+  </g>
+</svg>

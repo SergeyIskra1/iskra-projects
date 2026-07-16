@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Планировка сантехнического модуля</title>
+  <desc id="desc">План санитарного модуля с душевыми, туалетами, умывальной и техническим помещением.</desc>
+  <rect width="1600" height="1000" fill="#eef2ed"/>
+  <g fill="none" stroke="#153437" stroke-width="14">
+    <rect x="140" y="210" width="1320" height="580"/>
+    <path d="M500 210v580M960 210v580M1230 210v580"/>
+    <path d="M140 500h360M500 500h460M960 500h270"/>
+  </g>
+  <g fill="none" stroke="#087d67" stroke-width="8">
+    <path d="M250 210v110M360 210v110M610 210v110M720 210v110M830 210v110"/>
+    <path d="M250 680h110M610 680h110M1060 680h110M1330 680h110"/>
+  </g>
+  <g fill="#153437" font-family="Arial, sans-serif">
+    <text x="140" y="130" font-size="58" font-weight="700">САНТЕХНИЧЕСКИЙ МОДУЛЬ</text>
+    <text x="320" y="405" font-size="30" text-anchor="middle">ДУШЕВЫЕ</text>
+    <text x="320" y="650" font-size="30" text-anchor="middle">РАЗДЕВАЛКА</text>
+    <text x="730" y="405" font-size="30" text-anchor="middle">ТУАЛЕТЫ</text>
+    <text x="730" y="650" font-size="30" text-anchor="middle">УМЫВАЛЬНАЯ</text>
+    <text x="1095" y="405" font-size="28" text-anchor="middle">МГН</text>
+    <text x="1095" y="650" font-size="25" text-anchor="middle">ТЕХНИЧЕСКАЯ</text>
+    <text x="1345" y="500" font-size="24" text-anchor="middle">БОЙЛЕРНАЯ</text>
+    <text x="140" y="890" font-size="34">Пример компоновки · душевые и санузлы</text>
+  </g>
+  <g fill="#087d67">
+    <circle cx="230" cy="380" r="28"/><circle cx="320" cy="380" r="28"/><circle cx="410" cy="380" r="28"/>
+    <rect x="590" y="360" width="55" height="80"/><rect x="700" y="360" width="55" height="80"/><rect x="810" y="360" width="55" height="80"/>
+    <rect x="590" y="600" width="260" height="44"/>
+  </g>
+</svg>
