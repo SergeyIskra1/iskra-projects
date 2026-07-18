@@ -145,6 +145,21 @@ a {
   font-weight: 700;
 }
 
+.quick-contact-icons {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.quick-contact-icons a {
+  display: grid;
+  width: 36px;
+  height: 36px;
+  place-items: center;
+  border: 2px solid #111;
+  background: #fff;
+}
+
 .messenger {
   display: inline-flex;
   align-items: center;
@@ -697,6 +712,34 @@ td:last-child {
 
 .contact-form label {
   margin-bottom: 14px;
+}
+
+.requisites-list {
+  display: grid;
+  gap: 0;
+  margin: 14px 0 0;
+  border: 2px solid #111;
+}
+
+.requisites-list div {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  border-bottom: 1px solid #111;
+}
+
+.requisites-list div:last-child {
+  border-bottom: 0;
+}
+
+.requisites-list dt,
+.requisites-list dd {
+  margin: 0;
+  padding: 10px 12px;
+}
+
+.requisites-list dt {
+  border-right: 1px solid #111;
+  font-weight: 700;
 }
 
 .factor-grid,
